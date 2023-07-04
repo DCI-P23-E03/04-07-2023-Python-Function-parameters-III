@@ -12,8 +12,9 @@ You are tasked with creating a user registration system for a website. Implement
 4. Add some other features of your choice\
 
 ## Hint:
-You can use args or kwargs or both 
-Use the following test cases:
+- You can use args or kwargs or both \
+
+- Use the following test cases:
 
 ```
 register_user("john123", "pass123", "john@example.com")
